@@ -1,0 +1,22 @@
+/* Style sheet for sunWatch web application, imported into index.html, Niles Oien October 2022.
+ * First, set a good font. */
+body {
+ font: 14px Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* Paragraphs are fixed width. */
+P {
+ width : 600px;
+}
+
+/* Fixed width table too, with collapsed borders. */
+table {
+ width : 600px;
+ border-collapse:collapse;
+}
+
+/* Table border is thin green line. */
+tr,td,th {
+ border: 1px solid green;
+}
+

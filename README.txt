@@ -1,5 +1,3 @@
-# sunWatch
-A Chrome browser extension that is the equivalent of the streamLit example in the other repo
 
 This is an extension for the Chrome browser that allows the display of the status
 of the NSO GONG H-Alpha stations.

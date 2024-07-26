@@ -1,0 +1,17 @@
+{
+    "name": "Sun Watch",
+    "version": "1.0.0",
+    "description": "Shows National Science Foundation (NSF) National Solar Observatory (NSO) Global Oscillation Network Group (GONG) status, with links to solar images.",
+    "manifest_version": 3,
+    "author": "Niles Oien",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Sun Watch"
+    },
+    "icons": {
+        "16": "icon16.png",
+        "32": "icon32.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+  }
+}
